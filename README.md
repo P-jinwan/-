@@ -7,6 +7,7 @@
 - `웹 개발(Web)` - 김동현
 
 ## 최종 시연 영상
-<img src="(https://user-images.githubusercontent.com/96413630/169299974-3ce2cab7-9adb-4a9a-800f-b1cffde58518.gif)">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/96413630/169300654-96758426-43b4-4cf9-be07-f75f752ca6a8.gif)
 
-![테마별_제주도_관광지_추천_최종_시연_영상_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/96413630/169299974-3ce2cab7-9adb-4a9a-800f-b1cffde58518.gif)
+## 차례
+1. [프로젝트 개요](https://github.com/khdbsfdk/Travel-recommendation-AI/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
