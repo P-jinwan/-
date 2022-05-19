@@ -16,8 +16,8 @@
 ---
 
 ## 목차(Contents)
-1. [프로젝트 개요]
-2. [프로젝트 수행 절차]
+1. [프로젝트 개요](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+2. [프로젝트 수행 절차](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8)
 3. [참고 사이트]
 4. [어려웠던 점]
 ---
@@ -42,7 +42,7 @@
 ---
 
 ## 프로젝트 수행 절차
-1. [아키텍처]
+1. [아키텍처](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 2. [웹]
 3. [챗봇]
 4. [추천 시스템]
