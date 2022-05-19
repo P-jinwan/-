@@ -7,3 +7,6 @@
 - `웹 개발(Web)` - 김동현
 
 ## 최종 시연 영상
+<img src="(https://user-images.githubusercontent.com/96413630/169299974-3ce2cab7-9adb-4a9a-800f-b1cffde58518.gif)">
+
+![테마별_제주도_관광지_추천_최종_시연_영상_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/96413630/169299974-3ce2cab7-9adb-4a9a-800f-b1cffde58518.gif)
