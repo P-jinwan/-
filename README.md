@@ -22,7 +22,7 @@
 4. [개선 사항 및 어려웠던 점과 느낀 점](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%EA%B0%9C%EC%84%A0-%EC%82%AC%ED%95%AD-%EB%B0%8F-%EC%96%B4%EB%A0%A4%EC%9B%A0%EB%8D%98-%EC%A0%90%EA%B3%BC-%EB%8A%90%EB%82%80-%EC%A0%90)
 ---
 
-## 프로젝트 개요
+## 프로젝트 개요(Project Overview)
 
 ### 1. 프로젝트 선정 배경
 - 지인에게 관광지 추천을 해줬던 경험에서 아이디어를 얻어 프로젝트의 주제로 선정하게 되었습니다.
@@ -41,7 +41,7 @@
 - 운영 체제 - Window
 ---
 
-## 프로젝트 수행 절차
+## 프로젝트 수행 절차(Execution Procedure)
 1. [아키텍처](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 2. [웹](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/edit/master/README.md#2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%9B%B9)
 3. [챗봇](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/edit/master/README.md#3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%B1%97%EB%B4%87)
@@ -202,12 +202,12 @@ model = SentenceTransformer('sentence-transformers/xlm-r-100langs-bert-base-nli-
 
 ![4](https://user-images.githubusercontent.com/96413630/169645382-720f6f33-931e-4bc0-a0bf-18e7da4aae7d.png)
 
-## 출처 및 참고 사이트
+## 출처 및 참고 사이트(Reference)
 - 관광 데이터 -> [비짓 제주](https://www.visitjeju.net/kr/), [한국 관광 데이터랩](https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do)
 - 챗봇 -> [송영숙님 깃허브](https://github.com/songys/Chatbot_data), [BERT의 문장 임베딩(SBERT)을 이용한 한국어 챗봇](https://wikidocs.net/154530)
 - 추천 알고리즘 구현 -> [갈아먹는 머신러닝](https://yeomko.tistory.com/4?category=805638)
 
-## 개선 사항 및 어려웠던 점과 느낀 점
+## 개선 사항 및 어려웠던 점과 느낀 점(Improvements, difficulties, and feelings)
 
 ### 1. 개선 사항
 - 웹 페이지 구현을 통한 결과 시각화
