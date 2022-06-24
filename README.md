@@ -16,10 +16,10 @@
 ---
 
 ## 목차(Contents)
-1. [프로젝트 개요](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
-2. [프로젝트 수행 절차](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8)
-3. [출처 및 참고 사이트](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%EC%B6%9C%EC%B2%98-%EB%B0%8F-%EC%B0%B8%EA%B3%A0-%EC%82%AC%EC%9D%B4%ED%8A%B8)
-4. [개선 사항 및 어려웠던 점과 느낀 점](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%EA%B0%9C%EC%84%A0-%EC%82%AC%ED%95%AD-%EB%B0%8F-%EC%96%B4%EB%A0%A4%EC%9B%A0%EB%8D%98-%EC%A0%90%EA%B3%BC-%EB%8A%90%EB%82%80-%EC%A0%90)
+1. [프로젝트 개요](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94project-overview)
+2. [프로젝트 수행 절차](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8execution-procedure)
+3. [출처 및 참고 사이트](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%EC%B6%9C%EC%B2%98-%EB%B0%8F-%EC%B0%B8%EA%B3%A0-%EC%82%AC%EC%9D%B4%ED%8A%B8reference)
+4. [개선 사항 및 어려웠던 점과 느낀 점](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#%EA%B0%9C%EC%84%A0-%EC%82%AC%ED%95%AD-%EB%B0%8F-%EC%96%B4%EB%A0%A4%EC%9B%A0%EB%8D%98-%EC%A0%90%EA%B3%BC-%EB%8A%90%EB%82%80-%EC%A0%90improvements-difficulties-and-feelings)
 ---
 
 ## 프로젝트 개요(Project Overview)
