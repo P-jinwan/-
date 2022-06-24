@@ -43,9 +43,9 @@
 
 ## 프로젝트 수행 절차(Execution Procedure)
 1. [아키텍처](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
-2. [웹](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/edit/master/README.md#2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%9B%B9)
-3. [챗봇](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/edit/master/README.md#3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%B1%97%EB%B4%87)
-4. [추천 시스템](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/edit/master/README.md#4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+2. [웹](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%9B%B9)
+3. [챗봇](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%B1%97%EB%B4%87)
+4. [추천 시스템](https://github.com/P-jinwan/recommended_tourist_attractions_in_Jeju_Island_by_theme/blob/master/README.md#4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8---%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 ### 1. 프로젝트 수행 절차 - 아키텍처
 ![20220519_225642](https://user-images.githubusercontent.com/96413630/169311045-5a65df61-7646-45f3-be2d-9d426fe93d03.png)
